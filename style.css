@@ -1,0 +1,27 @@
+body {
+    margin: 20px;
+    background-color: rgb(56, 54, 54);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.container {
+    height: auto;
+    width: 60%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 5px groove white;
+    padding: 10px;
+    align-items: center;
+}
+a {
+    color: white;
+}
+ul {
+    list-style-position: inside;
+}
+ol {
+    list-style-position: inside;
+}    
+
