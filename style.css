@@ -40,6 +40,9 @@ h1, h2, a {
 .center {
     text-align: center;
 }
-p, a, h3{
+p, h3{
     margin-left: 25px;
+}
+.home {
+    display: block;
 }
